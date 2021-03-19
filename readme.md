@@ -1,7 +1,9 @@
-Pour compiler le projet, entrez la commande suivante:
+Pour compiler le projet, entrez la commande suivante:<br>
+```sh
 make all
-
-Pour génerer une clef publique et une clef privée, entrez la commande suivante:
+```
+<br>
+Pour génerer une clef publique et une clef privée, entrez la commande suivante:<br>
 
 
 le fichier entree.txt contient du texte
